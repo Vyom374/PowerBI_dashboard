@@ -26,7 +26,7 @@ The data model is structured using a star schema, consisting of a central fact t
 - **DAX Measures:**
   - Total Sales, Total Boxes, Total Shipments, Total Costs, Total Profit, and Profit Percentage calculations.
   - Low Box Shipments analysis (count and percentage).
-  - Month-on-Month and Year-on-Year changes for key metrics.
+  - Month-on-Month changes for key metrics.
 
 - **Visual Elements:**
   - KPI cards with conditional formatting.
